@@ -2,7 +2,7 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
-from keras_applications import resnet50
+from keras_applications import resnet as resnet50
 from . import keras_modules_injection
 
 
